@@ -1,0 +1,64 @@
+{
+  "part": 2,
+  "name": "Tune-zone Part 2",
+  "sourceScoreboard": null,
+  "demoBatch": "2026-04-19 15:06:54 to 2026-04-19 16:16:39",
+  "maps": [
+    {
+      "mapId": "30x30_by_Psj_3",
+      "demo": "30x30_by_Psj_3_Hoco4ek_01.40.demo"
+    },
+    {
+      "mapId": "AMHIN_by_wee",
+      "demo": "AMHIN_by_wee_Hoco4ek_08.74.demo"
+    },
+    {
+      "mapId": "DamkiMamki_by_Psj_3",
+      "demo": "DamkiMamki_by_Psj_3_Hoco4ek_10.70.demo"
+    },
+    {
+      "mapId": "Dipite_by_Psj_3",
+      "demo": "Dipite_by_Psj_3_ty4._14.32.demo"
+    },
+    {
+      "mapId": "elastic_by_wee",
+      "demo": "elastic_by_wee_Flaundie_10.40.demo"
+    },
+    {
+      "mapId": "Explosion_by_Psj_3",
+      "demo": "Explosion_by_Psj_3_ƤØŢĀŤ0Co_17.36.demo"
+    },
+    {
+      "mapId": "GranadeTune_by_Carrey",
+      "demo": "GranadeTune_by_Carrey_Flaundie_07.76.demo"
+    },
+    {
+      "mapId": "Gravity_by_ƤØŢĀŤ0Co",
+      "demo": "Gravity_by_ƤØŢĀŤ0Co_altf4_08.22.demo"
+    },
+    {
+      "mapId": "reversed67_by_wee",
+      "demo": "reversed67_by_wee_bearr_22.20.demo"
+    },
+    {
+      "mapId": "Speedy_by_wee",
+      "demo": "Speedy_by_wee_KOT1K_03.90.demo"
+    },
+    {
+      "mapId": "Strongloop_by_wee",
+      "demo": "Strongloop_by_wee_KOT1K_19.18.demo"
+    },
+    {
+      "mapId": "tekcoR_by_wee",
+      "demo": "tekcoR_by_wee_Hoco4ek_10.44.demo"
+    },
+    {
+      "mapId": "tune_grenade_tex_1_by_texnonik",
+      "demo": "tune_grenade_tex_1_by_texnonik_Flaundie_06.76.demo"
+    },
+    {
+      "mapId": "tune_grenade_tex_3_by_texnonik",
+      "demo": "tune_grenade_tex_3_by_texnonik_ƤØŢĀŤ0Co_18.10.demo"
+    }
+  ]
+}

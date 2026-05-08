@@ -1,0 +1,17 @@
+{
+  "name": "Timeloop Tune Zone Part 1",
+  "slug": "timeloop-tune-zone-part-1",
+  "source": "TimeLoop Tune-zone Part 1",
+  "status": "ready",
+  "statusLabel": "Ready to publish",
+  "publishIssues": [],
+  "runCount": 13,
+  "mapCount": 12,
+  "mapFileCount": 12,
+  "bestRunCount": 13,
+  "missingVideoCount": 0,
+  "hasLeaderboard": true,
+  "skippedFiles": [],
+  "skippedLobbyFiles": [],
+  "leaderboardSource": "tunezone part 1.txt"
+}

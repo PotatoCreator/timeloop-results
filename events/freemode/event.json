@@ -1,0 +1,29 @@
+{
+  "name": "Freemode",
+  "slug": "freemode",
+  "source": "freemode",
+  "status": "ready",
+  "statusLabel": "Ready to publish",
+  "publishIssues": [],
+  "runCount": 1483,
+  "mapCount": 20,
+  "mapFileCount": 20,
+  "bestRunCount": 21,
+  "missingVideoCount": 0,
+  "hasLeaderboard": true,
+  "skippedFiles": [],
+  "skippedLobbyFiles": [
+    "lobby_Andrej(RUS)_54.24.demo",
+    "lobby_AoAoAoBKa_54.28.demo",
+    "lobby_BYG GANS_47.40.demo",
+    "lobby_Carrey_162.28.demo",
+    "lobby_Chougune_49.90.demo",
+    "lobby_Gruffudd_51.16.demo",
+    "lobby_mate108_48.40.demo",
+    "lobby_Namzar_46.88.demo",
+    "lobby_бiня 15_48.50.demo",
+    "lobby_бабачай_49.24.demo",
+    "lobby_•Deni•_110.66.demo"
+  ],
+  "leaderboardSource": "scoreboard.txt"
+}
