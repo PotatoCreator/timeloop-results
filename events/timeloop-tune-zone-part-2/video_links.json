@@ -1,16 +1,72 @@
 {
-  "30x30_by_Psj_3_Hoco4ek_01.40.demo": "https://streamable.com/sz699a",
-  "AMHIN_by_wee_Hoco4ek_08.74.demo": "https://streamable.com/skaier",
-  "DamkiMamki_by_Psj_3_Hoco4ek_10.70.demo": "https://streamable.com/b0wmxd",
-  "Dipite_by_Psj_3_ty4._14.32.demo": "https://streamable.com/9sd7wq",
-  "elastic_by_wee_Flaundie_10.40.demo": "https://streamable.com/r16kxv",
-  "Explosion_by_Psj_3_ƤØŢĀŤ0Co_17.36.demo": "https://streamable.com/ohd2wl",
-  "GranadeTune_by_Carrey_Flaundie_07.76.demo": "https://streamable.com/cywr2b",
-  "Gravity_by_ƤØŢĀŤ0Co_altf4_08.22.demo": "https://streamable.com/608tcx",
-  "reversed67_by_wee_bearr_22.20.demo": "https://streamable.com/awdyef",
-  "Speedy_by_wee_KOT1K_03.90.demo": "https://streamable.com/82nga5",
-  "Strongloop_by_wee_KOT1K_19.18.demo": "https://streamable.com/jc7908",
-  "tekcoR_by_wee_Hoco4ek_10.44.demo": "https://streamable.com/jlb0s7",
-  "tune_grenade_tex_1_by_texnonik_Flaundie_06.76.demo": "https://streamable.com/wx6fqh",
-  "tune_grenade_tex_3_by_texnonik_ƤØŢĀŤ0Co_18.10.demo": "https://streamable.com/c2r5nn"
+  "30x30_by_Psj_3_Hoco4ek_01.40.demo": {
+    "id": "432e8f97-d5b3-46ac-a3ee-6e333bea7b54",
+    "kinescope": "https://kinescope.io/9iaqzdn69X4BjdpypiDURS",
+    "embedLink": "https://kinescope.io/embed/9iaqzdn69X4BjdpypiDURS"
+  },
+  "AMHIN_by_wee_Hoco4ek_08.74.demo": {
+    "id": "9acb8699-6279-4f33-8041-273006d2d1ea",
+    "kinescope": "https://kinescope.io/k7E1Y9zVW8eH95amTjM9Mh",
+    "embedLink": "https://kinescope.io/embed/k7E1Y9zVW8eH95amTjM9Mh"
+  },
+  "DamkiMamki_by_Psj_3_Hoco4ek_10.70.demo": {
+    "id": "be9fbf4b-bbc3-4db8-9f50-0262655aa243",
+    "kinescope": "https://kinescope.io/pxgqcwG44J6taQXhMks3xn",
+    "embedLink": "https://kinescope.io/embed/pxgqcwG44J6taQXhMks3xn"
+  },
+  "Dipite_by_Psj_3_ty4._14.32.demo": {
+    "id": "ff3ce57a-e86a-4bc2-9709-43d5e81915b8",
+    "kinescope": "https://kinescope.io/xw35VveaP3dyxpaYCTnMdU",
+    "embedLink": "https://kinescope.io/embed/xw35VveaP3dyxpaYCTnMdU"
+  },
+  "elastic_by_wee_Flaundie_10.40.demo": {
+    "id": "077b5a8f-8765-49a5-8469-91057e7d66de",
+    "kinescope": "https://kinescope.io/0VzYbD1zaJVtnHTxr9N7yW",
+    "embedLink": "https://kinescope.io/embed/0VzYbD1zaJVtnHTxr9N7yW"
+  },
+  "Explosion_by_Psj_3_ƤØŢĀŤ0Co_17.36.demo": {
+    "id": "c2f25959-c81f-485f-91cb-0db49293386d",
+    "kinescope": "https://kinescope.io/q5e4fHsmAgHyyLuGH1THZF",
+    "embedLink": "https://kinescope.io/embed/q5e4fHsmAgHyyLuGH1THZF"
+  },
+  "GranadeTune_by_Carrey_Flaundie_07.76.demo": {
+    "id": "292994e9-fa9b-4313-8560-61c518774181",
+    "kinescope": "https://kinescope.io/65NVa5w7DKuiXmaocid2DK",
+    "embedLink": "https://kinescope.io/embed/65NVa5w7DKuiXmaocid2DK"
+  },
+  "Gravity_by_ƤØŢĀŤ0Co_altf4_08.22.demo": {
+    "id": "c4448e9f-de44-4a1b-9c80-30dc3595105e",
+    "kinescope": "https://kinescope.io/qeFRtspoBdjsfWpwy8Bixd",
+    "embedLink": "https://kinescope.io/embed/qeFRtspoBdjsfWpwy8Bixd"
+  },
+  "reversed67_by_wee_bearr_22.20.demo": {
+    "id": "5c9f4d6d-3067-41f9-8e87-eb9e53c0ba7b",
+    "kinescope": "https://kinescope.io/crnoGLN6xeNmCCnKFC9VKH",
+    "embedLink": "https://kinescope.io/embed/crnoGLN6xeNmCCnKFC9VKH"
+  },
+  "Speedy_by_wee_KOT1K_03.90.demo": {
+    "id": "49e0574e-25f8-4e0f-8366-706c873ab8b7",
+    "kinescope": "https://kinescope.io/a87iN6dxYbyStiDrerJzop",
+    "embedLink": "https://kinescope.io/embed/a87iN6dxYbyStiDrerJzop"
+  },
+  "Strongloop_by_wee_KOT1K_19.18.demo": {
+    "id": "9e22391c-4a8b-4808-89cd-7526e6aea5d3",
+    "kinescope": "https://kinescope.io/kwyUdakeYSyBmQgMRjypG8",
+    "embedLink": "https://kinescope.io/embed/kwyUdakeYSyBmQgMRjypG8"
+  },
+  "tekcoR_by_wee_Hoco4ek_10.44.demo": {
+    "id": "28c8eb71-3b48-4223-a1ef-754dd03e6ed2",
+    "kinescope": "https://kinescope.io/6374T2VnbdogufQCNnphdS",
+    "embedLink": "https://kinescope.io/embed/6374T2VnbdogufQCNnphdS"
+  },
+  "tune_grenade_tex_1_by_texnonik_Flaundie_06.76.demo": {
+    "id": "87917385-38bb-48a3-be50-9ddf47af8d55",
+    "kinescope": "https://kinescope.io/hJXamzgVER56y8eAFGm1k8",
+    "embedLink": "https://kinescope.io/embed/hJXamzgVER56y8eAFGm1k8"
+  },
+  "tune_grenade_tex_3_by_texnonik_ƤØŢĀŤ0Co_18.10.demo": {
+    "id": "67a721f6-96a5-4f96-8b4a-80b2ac5dc266",
+    "kinescope": "https://kinescope.io/dNnvvW13VCQ2keNiGCi1aU",
+    "embedLink": "https://kinescope.io/embed/dNnvvW13VCQ2keNiGCi1aU"
+  }
 }

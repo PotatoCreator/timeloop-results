@@ -1,15 +1,67 @@
 {
-  "Flaurium_by_Flaundie_Psj_3_11.12.demo": "https://streamable.com/hsrpxh",
-  "ILoveKandiifloss_by_Psj_3_Flaundie_10.90.demo": "https://streamable.com/0yw2p1",
-  "KubiKubi_by_Psj_3_KOT1K_07.88.demo": "https://streamable.com/vf2l61",
-  "nugtohS_by_wee_Hoco4ek_10.16.demo": "https://streamable.com/iw2u4j",
-  "Penalty_by_wee_ByFox_00.30.demo": "https://streamable.com/fm0ef0",
-  "Perkaset_by_Psj_3_Flaundie_14.24.demo": "https://streamable.com/jttz10",
-  "ShotguneTune_by_Carrey_∜GŏłĎĒn_24.12.demo": "https://streamable.com/ht91u9",
-  "ShotIT_by_wee_KOT1K_22.40.demo": "https://streamable.com/8di81d",
-  "ShotIT_by_wee_∜GŏłĎĒn_22.40.demo": "https://streamable.com/dxp5w8",
-  "ShoTune_by_Chougune_Flaundie_09.76.demo": "https://streamable.com/ckks9m",
-  "sosihuy_by_bender_xVideos.mp4_09.20.demo": "https://streamable.com/v3275u",
-  "tune_grenade_tex_2_by_texnonik_why%3F!_10.58.demo": "https://streamable.com/x6l6ar",
-  "tune_grenade_tex_4_by_texnonik_Namzar_11.62.demo": "https://streamable.com/upd7po"
+  "Flaurium_by_Flaundie_Psj_3_11.12.demo": {
+    "id": "b50940a1-e5d7-456a-9197-dfbd91777e27",
+    "kinescope": "https://kinescope.io/omAB8JUQbTBNjBSLrNNN9P",
+    "embedLink": "https://kinescope.io/embed/omAB8JUQbTBNjBSLrNNN9P"
+  },
+  "ILoveKandiifloss_by_Psj_3_Flaundie_10.90.demo": {
+    "id": "d21a0d41-d660-4087-8223-add6c0496b38",
+    "kinescope": "https://kinescope.io/rWLuLWhQhAoUfbrGx8Dcco",
+    "embedLink": "https://kinescope.io/embed/rWLuLWhQhAoUfbrGx8Dcco"
+  },
+  "KubiKubi_by_Psj_3_KOT1K_07.88.demo": {
+    "id": "0c2e78bd-c0e2-420d-9c13-5a42f97b094a",
+    "kinescope": "https://kinescope.io/2vfdMxPJzADbjrCvDfD3iy",
+    "embedLink": "https://kinescope.io/embed/2vfdMxPJzADbjrCvDfD3iy"
+  },
+  "nugtohS_by_wee_Hoco4ek_10.16.demo": {
+    "id": "73bc4de7-faad-4cc6-9888-d3ca6b8d5889",
+    "kinescope": "https://kinescope.io/fhUFdbUc1Bs5zGZ7JBSzzK",
+    "embedLink": "https://kinescope.io/embed/fhUFdbUc1Bs5zGZ7JBSzzK"
+  },
+  "Penalty_by_wee_ByFox_00.30.demo": {
+    "id": "a555c3cf-5193-4868-9169-e1de07e745e9",
+    "kinescope": "https://kinescope.io/mq9kRVk7AZdVgZMCZ9V3TK",
+    "embedLink": "https://kinescope.io/embed/mq9kRVk7AZdVgZMCZ9V3TK"
+  },
+  "Perkaset_by_Psj_3_Flaundie_14.24.demo": {
+    "id": "e6d90ebd-5dc1-45b3-8b19-d6821013ce53",
+    "kinescope": "https://kinescope.io/uvmsodqD2RNe8gN6SKi1SF",
+    "embedLink": "https://kinescope.io/embed/uvmsodqD2RNe8gN6SKi1SF"
+  },
+  "ShotguneTune_by_Carrey_∜GŏłĎĒn_24.12.demo": {
+    "id": "fa7849a4-a266-484f-9d3a-48d671514ea0",
+    "kinescope": "https://kinescope.io/wVTsbxJ1RfNkyNGjv8N4wG",
+    "embedLink": "https://kinescope.io/embed/wVTsbxJ1RfNkyNGjv8N4wG"
+  },
+  "ShotIT_by_wee_KOT1K_22.40.demo": {
+    "id": "61035c2d-4b05-4080-b600-818990f9b8ea",
+    "kinescope": "https://kinescope.io/cYPmAW6Zu6yJ3QikS8GdQJ",
+    "embedLink": "https://kinescope.io/embed/cYPmAW6Zu6yJ3QikS8GdQJ"
+  },
+  "ShotIT_by_wee_∜GŏłĎĒn_22.40.demo": {
+    "id": "13710e2c-5231-486d-8e2c-8bf97aefd94c",
+    "kinescope": "https://kinescope.io/3pf56AKEQHCTBPFurS8UTo",
+    "embedLink": "https://kinescope.io/embed/3pf56AKEQHCTBPFurS8UTo"
+  },
+  "ShoTune_by_Chougune_Flaundie_09.76.demo": {
+    "id": "fe7dafe6-98d5-4cd8-8fb3-b2cb3da0427e",
+    "kinescope": "https://kinescope.io/xqFPoN8nDyvckmuLB3VuMm",
+    "embedLink": "https://kinescope.io/embed/xqFPoN8nDyvckmuLB3VuMm"
+  },
+  "sosihuy_by_bender_xVideos.mp4_09.20.demo": {
+    "id": "888af3b5-1553-4a8f-a96d-c5d5cb7d0ca3",
+    "kinescope": "https://kinescope.io/hRW1WD48D7yLtNRqYys7jF",
+    "embedLink": "https://kinescope.io/embed/hRW1WD48D7yLtNRqYys7jF"
+  },
+  "tune_grenade_tex_2_by_texnonik_why%3F!_10.58.demo": {
+    "id": "58f7fdca-8213-49fb-9e69-447679f72261",
+    "kinescope": "https://kinescope.io/bZcGy5aAjkGg65yq55tHcF",
+    "embedLink": "https://kinescope.io/embed/bZcGy5aAjkGg65yq55tHcF"
+  },
+  "tune_grenade_tex_4_by_texnonik_Namzar_11.62.demo": {
+    "id": "c6416c43-bf3d-4d4a-8180-2784593c24ae",
+    "kinescope": "https://kinescope.io/qtVz2g9hT9BLWcnueAjEPy",
+    "embedLink": "https://kinescope.io/embed/qtVz2g9hT9BLWcnueAjEPy"
+  }
 }

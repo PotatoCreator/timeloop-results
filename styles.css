@@ -346,6 +346,38 @@ h3 {
   border: 0;
 }
 
+/* Demo Player Button */
+.demo-player-trigger {
+  margin-top: 12px;
+}
+
+.watch-demo-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: linear-gradient(180deg, rgba(126, 227, 111, 0.28), rgba(126, 227, 111, 0.14));
+  color: var(--text);
+  font-size: 0.95rem;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 160ms ease, transform 160ms ease, background-color 160ms ease;
+}
+
+.watch-demo-btn:hover,
+.watch-demo-btn:focus-visible {
+  border-color: rgba(126, 227, 111, 0.75);
+  transform: translateY(-1px);
+  outline: none;
+}
+
+.watch-demo-btn svg {
+  flex-shrink: 0;
+}
+
 .text-link {
   display: inline-flex;
   margin-top: 10px;
