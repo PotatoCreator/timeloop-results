@@ -29,13 +29,13 @@
     "leaderboardSource": "scoreboard.txt"
   },
   {
-    "name": "No stop",
+    "name": "no stop",
     "slug": "no-stop",
     "source": "no-stop",
     "status": "ready",
     "statusLabel": "Ready to publish",
     "publishIssues": [],
-    "runCount": 945,
+    "runCount": 944,
     "mapCount": 10,
     "mapFileCount": 10,
     "bestRunCount": 10,

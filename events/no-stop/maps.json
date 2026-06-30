@@ -1,8 +1,8 @@
 [
   {
-    "id": "Beryö§ƤØŢĀŤ0Co,",
+    "id": "Beryö§ƤØŢĀŤ0Co",
     "name": "Beryö",
-    "author": "ƤØŢĀŤ0Co,",
+    "author": "ƤØŢĀŤ0Co",
     "runCount": 122,
     "bestRuns": [
       {
@@ -226,182 +226,175 @@
     ]
   },
   {
-    "id": "Cheesy§DoubleDipp,",
+    "id": "Cheesy§DoubleDipp",
     "name": "Cheesy",
-    "author": "DoubleDipp,",
-    "runCount": 45,
+    "author": "DoubleDipp",
+    "runCount": 44,
     "bestRuns": [
       {
-        "player": "67",
-        "time": "15.00",
-        "timeCentiseconds": 1500,
-        "file": "Cheesy§DoubleDipp,_67_15.00.demo"
+        "player": "Gwendal",
+        "time": "17.26",
+        "timeCentiseconds": 1726,
+        "file": "Cheesy§DoubleDipp,_Gwendal_17.26.demo"
       }
     ],
     "rankings": [
       {
         "rank": 1,
-        "player": "67",
-        "time": "15.00",
-        "timeCentiseconds": 1500,
-        "file": "Cheesy§DoubleDipp,_67_15.00.demo"
-      },
-      {
-        "rank": 2,
         "player": "Gwendal",
         "time": "17.26",
         "timeCentiseconds": 1726,
         "file": "Cheesy§DoubleDipp,_Gwendal_17.26.demo"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "player": "Chougune",
         "time": "18.60",
         "timeCentiseconds": 1860,
         "file": "Cheesy§DoubleDipp,_Chougune_18.60.demo"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "player": "камушек",
         "time": "19.82",
         "timeCentiseconds": 1982,
         "file": "Cheesy§DoubleDipp,_камушек_19.82.demo"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "player": "girlkitten _3c",
         "time": "19.98",
         "timeCentiseconds": 1998,
         "file": "Cheesy§DoubleDipp,_girlkitten _3c_19.98.demo"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "player": "alwaуs",
         "time": "20.44",
         "timeCentiseconds": 2044,
         "file": "Cheesy§DoubleDipp,_alwaуs_20.44.demo"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "player": "mate108",
         "time": "21.28",
         "timeCentiseconds": 2128,
         "file": "Cheesy§DoubleDipp,_mate108_21.28.demo"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "player": "Namzar",
         "time": "21.68",
         "timeCentiseconds": 2168,
         "file": "Cheesy§DoubleDipp,_Namzar_21.68.demo"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "player": "Markus777777",
         "time": "21.98",
         "timeCentiseconds": 2198,
         "file": "Cheesy§DoubleDipp,_Markus777777_21.98.demo"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "player": "Atsuko",
         "time": "22.24",
         "timeCentiseconds": 2224,
         "file": "Cheesy§DoubleDipp,_Atsuko_22.24.demo"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "player": "卄匀爪K囗IK",
         "time": "22.94",
         "timeCentiseconds": 2294,
         "file": "Cheesy§DoubleDipp,_卄匀爪K囗IK_22.94.demo"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "player": "Vappy",
         "time": "23.52",
         "timeCentiseconds": 2352,
         "file": "Cheesy§DoubleDipp,_Vappy_23.52.demo"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "player": "Paola",
         "time": "23.90",
         "timeCentiseconds": 2390,
         "file": "Cheesy§DoubleDipp,_Paola_23.90.demo"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "player": "PRO_Gaming1921",
         "time": "24.18",
         "timeCentiseconds": 2418,
         "file": "Cheesy§DoubleDipp,_PRO_Gaming1921_24.18.demo"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "player": "bearr",
         "time": "25.68",
         "timeCentiseconds": 2568,
         "file": "Cheesy§DoubleDipp,_bearr_25.68.demo"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "player": "me3rch",
         "time": "27.88",
         "timeCentiseconds": 2788,
         "file": "Cheesy§DoubleDipp,_me3rch_27.88.demo"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "player": "Stepfunn",
         "time": "30.22",
         "timeCentiseconds": 3022,
         "file": "Cheesy§DoubleDipp,_Stepfunn_30.22.demo"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "player": "CHETO",
         "time": "31.52",
         "timeCentiseconds": 3152,
         "file": "Cheesy§DoubleDipp,_CHETO_31.52.demo"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "player": "Hojphy",
         "time": "33.02",
         "timeCentiseconds": 3302,
         "file": "Cheesy§DoubleDipp,_Hojphy_33.02.demo"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "player": "derz",
         "time": "33.14",
         "timeCentiseconds": 3314,
         "file": "Cheesy§DoubleDipp,_derz_33.14.demo"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "player": "Carrey",
         "time": "38.02",
         "timeCentiseconds": 3802,
         "file": "Cheesy§DoubleDipp,_Carrey_38.02.demo"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "player": "•Deni•",
         "time": "38.92",
         "timeCentiseconds": 3892,
         "file": "Cheesy§DoubleDipp,_•Deni•_38.92.demo"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "player": "QwinQ",
         "time": "40.40",
         "timeCentiseconds": 4040,
         "file": "Cheesy§DoubleDipp,_QwinQ_40.40.demo"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "player": "soplezuyka",
         "time": "41.24",
         "timeCentiseconds": 4124,
@@ -410,9 +403,9 @@
     ]
   },
   {
-    "id": "Dustfall_1111§texnonik,",
+    "id": "Dustfall_1111§texnonik",
     "name": "Dustfall_1111",
-    "author": "texnonik,",
+    "author": "texnonik",
     "runCount": 107,
     "bestRuns": [
       {
@@ -636,9 +629,9 @@
     ]
   },
   {
-    "id": "Föret§ƤØŢĀŤ0Co,",
+    "id": "Föret§ƤØŢĀŤ0Co",
     "name": "Föret",
-    "author": "ƤØŢĀŤ0Co,",
+    "author": "ƤØŢĀŤ0Co",
     "runCount": 119,
     "bestRuns": [
       {
@@ -841,9 +834,9 @@
     ]
   },
   {
-    "id": "Heärl§ƤØŢĀŤ0Co,",
+    "id": "Heärl§ƤØŢĀŤ0Co",
     "name": "Heärl",
-    "author": "ƤØŢĀŤ0Co,",
+    "author": "ƤØŢĀŤ0Co",
     "runCount": 84,
     "bestRuns": [
       {
@@ -1046,9 +1039,9 @@
     ]
   },
   {
-    "id": "KurdeBober§Chougune,",
+    "id": "KurdeBober§Chougune",
     "name": "KurdeBober",
-    "author": "Chougune,",
+    "author": "Chougune",
     "runCount": 79,
     "bestRuns": [
       {
@@ -1251,9 +1244,9 @@
     ]
   },
   {
-    "id": "per§texnonik,",
+    "id": "per§texnonik",
     "name": "per",
-    "author": "texnonik,",
+    "author": "texnonik",
     "runCount": 100,
     "bestRuns": [
       {
@@ -1470,9 +1463,9 @@
     ]
   },
   {
-    "id": "percent4§texnonik,",
+    "id": "percent4§texnonik",
     "name": "percent4",
-    "author": "texnonik,",
+    "author": "texnonik",
     "runCount": 115,
     "bestRuns": [
       {
@@ -1689,9 +1682,9 @@
     ]
   },
   {
-    "id": "Swёrv§ƤØŢĀŤ0Co,",
+    "id": "Swёrv§ƤØŢĀŤ0Co",
     "name": "Swёrv",
-    "author": "ƤØŢĀŤ0Co,",
+    "author": "ƤØŢĀŤ0Co",
     "runCount": 100,
     "bestRuns": [
       {
@@ -1894,9 +1887,9 @@
     ]
   },
   {
-    "id": "Ёrity§ƤØŢĀŤ0Co,",
+    "id": "Ёrity§ƤØŢĀŤ0Co",
     "name": "Ёrity",
-    "author": "ƤØŢĀŤ0Co,",
+    "author": "ƤØŢĀŤ0Co",
     "runCount": 74,
     "bestRuns": [
       {
