@@ -29,6 +29,23 @@
     "leaderboardSource": "scoreboard.txt"
   },
   {
+    "name": "No stop",
+    "slug": "no-stop",
+    "source": "no-stop",
+    "status": "ready",
+    "statusLabel": "Ready to publish",
+    "publishIssues": [],
+    "runCount": 945,
+    "mapCount": 10,
+    "mapFileCount": 10,
+    "bestRunCount": 10,
+    "missingVideoCount": 0,
+    "hasLeaderboard": true,
+    "skippedFiles": [],
+    "skippedLobbyFiles": [],
+    "leaderboardSource": "1. girlkitten 3c 251 points.txt"
+  },
+  {
     "name": "Timeloop Tune Zone Part 1",
     "slug": "timeloop-tune-zone-part-1",
     "source": "TimeLoop Tune-zone Part 1",
