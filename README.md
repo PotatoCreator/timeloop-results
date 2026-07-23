@@ -1,12 +1,10 @@
 # TimeLoop Results
 
-This GitHub Pages site hosts official TimeLoop event results.
+This project builds and publishes TimeLoop event result pages.
 
-Each event page shows:
+Current entry points:
 
-- the official points leaderboard
-- the best run or tied best runs for each map
-- embedded videos for those best runs
-- optional map downloads when map files are provided
+- `timeloop-control.bat` for the guided workflow
+- `auto-event.bat` for the fast import/sort/render path
 
-Events are marked ready only after the official leaderboard and all best-run video links are available.
+The generated site keeps existing event pages under `events/` and writes the homepage summary to `index.html`.

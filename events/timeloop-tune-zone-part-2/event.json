@@ -1,5 +1,6 @@
 {
   "name": "Timeloop Tune Zone Part 2",
+  "displayName": "Tune Zone Part 2",
   "slug": "timeloop-tune-zone-part-2",
   "source": "TimeLoop Tune-zone Part 2",
   "status": "ready",
@@ -8,6 +9,16 @@
   "runCount": 14,
   "mapCount": 14,
   "mapFileCount": 14,
+  "fullMapCount": 14,
+  "fallbackMapCount": 0,
+  "missingMapCount": 0,
+  "mapSourceStatus": "full",
+  "mapSourceCounts": {
+    "full": 14,
+    "embeddedFallback": 0,
+    "missing": 0,
+    "status": "full"
+  },
   "bestRunCount": 14,
   "missingVideoCount": 0,
   "hasLeaderboard": true,

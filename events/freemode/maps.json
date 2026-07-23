@@ -188,7 +188,8 @@
         "timeCentiseconds": 2976,
         "file": "100_by_wee_nota atobus_29.76.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "150§wee",
@@ -372,7 +373,8 @@
         "timeCentiseconds": 1812,
         "file": "150§wee;_nota atobus_18.12.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "200§wee",
@@ -514,7 +516,8 @@
         "timeCentiseconds": 2914,
         "file": "200§wee;_ZMS_29.14.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Cut The Time§mate108",
@@ -698,7 +701,8 @@
         "timeCentiseconds": 2174,
         "file": "Cut The Time§mate108;_DoubleDipp_21.74.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Final_by_Psj_3",
@@ -882,7 +886,8 @@
         "timeCentiseconds": 1998,
         "file": "Final_by_Psj_3_nota atobus_19.98.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "I can't play with both hands§Psj_3",
@@ -1059,7 +1064,8 @@
         "timeCentiseconds": 19320,
         "file": "I can't play with both hands§Psj_3;_nota atobus_193.20.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Kandiifloss_i_want_you§Psj_3",
@@ -1250,7 +1256,8 @@
         "timeCentiseconds": 1538,
         "file": "Kandiifloss_i_want_you§Psj_3;_BYG GANS_15.38.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Luminous§PRO_Gaming1921",
@@ -1392,7 +1399,8 @@
         "timeCentiseconds": 5234,
         "file": "Luminous§PRO_Gaming1921;_chydesni_52.34.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Muzzle§Psj_3",
@@ -1604,7 +1612,8 @@
         "timeCentiseconds": 1368,
         "file": "Muzzle§Psj_3;_Gomer_280_13.68.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "noobfilter§wee",
@@ -1774,7 +1783,8 @@
         "timeCentiseconds": 6828,
         "file": "noobfilter§wee;_hstlyx____re___68.28.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "olen§quomy",
@@ -1979,7 +1989,8 @@
         "timeCentiseconds": 548,
         "file": "olen§quomy;_z1rx_05.48.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "poletel_by_quomy",
@@ -2170,7 +2181,8 @@
         "timeCentiseconds": 804,
         "file": "poletel_by_quomy_nota atobus_08.04.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "priletel_by_quomy",
@@ -2347,7 +2359,8 @@
         "timeCentiseconds": 2512,
         "file": "priletel_by_quomy_nota atobus_25.12.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "SimpleSnail_by_♂S1mple♂",
@@ -2489,7 +2502,8 @@
         "timeCentiseconds": 3632,
         "file": "SimpleSnail_by_♂S1mple♂_Andrej(RUS)_36.32.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "SimpleTeleport_by_♂S1mple♂",
@@ -2645,7 +2659,8 @@
         "timeCentiseconds": 16444,
         "file": "SimpleTeleport_by_♂S1mple♂_nota atobus_164.44.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Slippery floor§ƤØŢĀŤ0Co",
@@ -2836,7 +2851,8 @@
         "timeCentiseconds": 1448,
         "file": "Slippery floor§ƤØŢĀŤ0Co;_Gomer_280_14.48.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Swingy§wee",
@@ -3019,7 +3035,8 @@
         "timeCentiseconds": 2128,
         "file": "Swingy§wee;_Andrej(RUS)_21.28.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "uletel_by_quomy",
@@ -3217,7 +3234,8 @@
         "timeCentiseconds": 1122,
         "file": "uletel_by_quomy_chydesni_11.22.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "weenade_by_wee",
@@ -3366,7 +3384,8 @@
         "timeCentiseconds": 1426,
         "file": "weenade_by_wee_Carrey_14.26.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "zaletel§quomy",
@@ -3564,6 +3583,7 @@
         "timeCentiseconds": 894,
         "file": "zaletel§quomy;_koik_08.94.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   }
 ]

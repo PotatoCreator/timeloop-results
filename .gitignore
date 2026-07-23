@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.py[cod]
+.vscode/
+
+*.mp4
+**/videos/
+
+local_tools/.auto_work/
+local_tools/.control_panel_inputs/
+local_tools/.kinescope_link_backups/
+local_tools/.render_event_work/
+local_tools/.video_volume_backups/
+
+_test_*/
+
+# Do not ignore published event downloads
+!events/*/demos/*.demo
+!events/*/maps/*.map
+*.py

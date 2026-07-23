@@ -223,7 +223,8 @@
         "timeCentiseconds": 1794,
         "file": "Beryö§ƤØŢĀŤ0Co,_kinel tim_17.94.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Cheesy§DoubleDipp",
@@ -400,7 +401,8 @@
         "timeCentiseconds": 4124,
         "file": "Cheesy§DoubleDipp,_soplezuyka_41.24.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Dustfall_1111§texnonik",
@@ -626,7 +628,8 @@
         "timeCentiseconds": 29658,
         "file": "Dustfall_1111§texnonik,_soplezuyka_296.58.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Föret§ƤØŢĀŤ0Co",
@@ -831,7 +834,8 @@
         "timeCentiseconds": 1084,
         "file": "Föret§ƤØŢĀŤ0Co,_QwinQ_10.84.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Heärl§ƤØŢĀŤ0Co",
@@ -1036,7 +1040,8 @@
         "timeCentiseconds": 1568,
         "file": "Heärl§ƤØŢĀŤ0Co,_kinel tim_15.68.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "KurdeBober§Chougune",
@@ -1241,7 +1246,8 @@
         "timeCentiseconds": 14240,
         "file": "KurdeBober§Chougune,_soplezuyka_142.40.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "per§texnonik",
@@ -1460,7 +1466,8 @@
         "timeCentiseconds": 15732,
         "file": "per§texnonik,_soplezuyka_157.32.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "percent4§texnonik",
@@ -1679,7 +1686,8 @@
         "timeCentiseconds": 2098,
         "file": "percent4§texnonik,_⌨_20.98.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Swёrv§ƤØŢĀŤ0Co",
@@ -1884,7 +1892,8 @@
         "timeCentiseconds": 1534,
         "file": "Swёrv§ƤØŢĀŤ0Co,_kinel tim_15.34.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Ёrity§ƤØŢĀŤ0Co",
@@ -2075,6 +2084,7 @@
         "timeCentiseconds": 2716,
         "file": "Ёrity§ƤØŢĀŤ0Co,_агуш0_27.16.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   }
 ]

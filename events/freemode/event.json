@@ -1,5 +1,6 @@
 {
   "name": "Freemode",
+  "displayName": "Freemode",
   "slug": "freemode",
   "source": "freemode",
   "status": "ready",
@@ -8,6 +9,16 @@
   "runCount": 1483,
   "mapCount": 20,
   "mapFileCount": 20,
+  "fullMapCount": 20,
+  "fallbackMapCount": 0,
+  "missingMapCount": 0,
+  "mapSourceStatus": "full",
+  "mapSourceCounts": {
+    "full": 20,
+    "embeddedFallback": 0,
+    "missing": 0,
+    "status": "full"
+  },
   "bestRunCount": 21,
   "missingVideoCount": 0,
   "hasLeaderboard": true,

@@ -20,7 +20,8 @@
         "timeCentiseconds": 140,
         "file": "30x30_by_Psj_3_Hoco4ek_01.40.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "AMHIN_by_wee",
@@ -43,7 +44,8 @@
         "timeCentiseconds": 874,
         "file": "AMHIN_by_wee_Hoco4ek_08.74.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "DamkiMamki_by_Psj_3",
@@ -66,7 +68,8 @@
         "timeCentiseconds": 1070,
         "file": "DamkiMamki_by_Psj_3_Hoco4ek_10.70.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Dipite_by_Psj_3",
@@ -89,7 +92,8 @@
         "timeCentiseconds": 1432,
         "file": "Dipite_by_Psj_3_ty4._14.32.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "elastic_by_wee",
@@ -112,7 +116,8 @@
         "timeCentiseconds": 1040,
         "file": "elastic_by_wee_Flaundie_10.40.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Explosion_by_Psj_3",
@@ -135,7 +140,8 @@
         "timeCentiseconds": 1736,
         "file": "Explosion_by_Psj_3_ƤØŢĀŤ0Co_17.36.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "GranadeTune_by_Carrey",
@@ -158,7 +164,8 @@
         "timeCentiseconds": 776,
         "file": "GranadeTune_by_Carrey_Flaundie_07.76.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Gravity_by_ƤØŢĀŤ0Co",
@@ -181,7 +188,8 @@
         "timeCentiseconds": 822,
         "file": "Gravity_by_ƤØŢĀŤ0Co_altf4_08.22.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "reversed67_by_wee",
@@ -204,7 +212,8 @@
         "timeCentiseconds": 2220,
         "file": "reversed67_by_wee_bearr_22.20.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Speedy_by_wee",
@@ -227,7 +236,8 @@
         "timeCentiseconds": 390,
         "file": "Speedy_by_wee_KOT1K_03.90.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "Strongloop_by_wee",
@@ -250,7 +260,8 @@
         "timeCentiseconds": 1918,
         "file": "Strongloop_by_wee_KOT1K_19.18.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "tekcoR_by_wee",
@@ -273,7 +284,8 @@
         "timeCentiseconds": 1044,
         "file": "tekcoR_by_wee_Hoco4ek_10.44.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "tune_grenade_tex_1_by_texnonik",
@@ -296,7 +308,8 @@
         "timeCentiseconds": 676,
         "file": "tune_grenade_tex_1_by_texnonik_Flaundie_06.76.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   },
   {
     "id": "tune_grenade_tex_3_by_texnonik",
@@ -319,6 +332,7 @@
         "timeCentiseconds": 1810,
         "file": "tune_grenade_tex_3_by_texnonik_ƤØŢĀŤ0Co_18.10.demo"
       }
-    ]
+    ],
+    "mapSource": "full"
   }
 ]
