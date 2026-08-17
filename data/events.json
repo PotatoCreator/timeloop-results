@@ -1,5 +1,77 @@
 [
   {
+    "name": "2 Weapon Mix",
+    "displayName": "2 Weapon Mix",
+    "slug": "2-weapon-mix",
+    "source": "2-weapon-mix",
+    "status": "ready",
+    "statusLabel": "Ready to publish",
+    "publishIssues": [],
+    "runCount": 555,
+    "mapCount": 9,
+    "mapFileCount": 9,
+    "fullMapCount": 9,
+    "fallbackMapCount": 0,
+    "missingMapCount": 0,
+    "mapSourceStatus": "full",
+    "mapSourceCounts": {
+      "full": 9,
+      "embeddedFallback": 0,
+      "missing": 0,
+      "status": "full"
+    },
+    "bestRunCount": 9,
+    "missingVideoCount": 0,
+    "hasLeaderboard": true,
+    "skippedFiles": [],
+    "skippedLobbyFiles": [],
+    "excludedPlayers": [
+      "hunter"
+    ],
+    "excludedPlayerRunCount": 27,
+    "excludedPlayerFiles": [
+      "AimNinja_by_ƤØŢĀŤ0Co_hunter_13.16.demo",
+      "AimNinja_by_ƤØŢĀŤ0Co_hunter_13.50.demo",
+      "AimNinja_by_ƤØŢĀŤ0Co_hunter_19.18.demo",
+      "AutoWeapon_by_ƤØŢĀŤ0Co_hunter_11.60.demo",
+      "AutoWeapon_by_ƤØŢĀŤ0Co_hunter_12.92.demo",
+      "AutoWeapon_by_ƤØŢĀŤ0Co_hunter_13.88.demo",
+      "AutoWeapon_by_ƤØŢĀŤ0Co_hunter_19.82.demo",
+      "JetPuck 2_by_texnonik_hunter_12.24.demo",
+      "JetPuck 2_by_texnonik_hunter_13.54.demo",
+      "JetPuckz2_by_texnonik_hunter_11.06.demo",
+      "JetPuckz_by_texnonik_hunter_10.36.demo",
+      "JetPuckz_by_texnonik_hunter_10.44.demo",
+      "JetPuckz_by_texnonik_hunter_14.62.demo",
+      "LaserTrigger_by_ƤØŢĀŤ0Co_hunter_10.08.demo",
+      "LaserTrigger_by_ƤØŢĀŤ0Co_hunter_11.00.demo",
+      "LaserTrigger_by_ƤØŢĀŤ0Co_hunter_13.56.demo",
+      "loopypoopy_by_DoubleDipp_hunter_16.38.demo",
+      "loopypoopy_by_DoubleDipp_hunter_20.00.demo",
+      "loopypoopy_by_DoubleDipp_hunter_38.18.demo",
+      "Shroket_1_by_texnonik_hunter_12.02.demo",
+      "Shroket_1_by_texnonik_hunter_13.22.demo",
+      "Shroket_1_by_texnonik_hunter_25.08.demo",
+      "Shroket_2_by_texnonik_hunter_08.68.demo",
+      "Shroket_2_by_texnonik_hunter_09.42.demo",
+      "Shroket_2_by_texnonik_hunter_11.20.demo",
+      "Shroket_2_by_texnonik_hunter_11.94.demo",
+      "Shroket_2_by_texnonik_hunter_17.98.demo"
+    ],
+    "playerAliasCount": 2,
+    "playerAliases": [
+      {
+        "source": "0_o",
+        "display": "Flaundie"
+      },
+      {
+        "source": "o_0",
+        "display": "Generale43"
+      }
+    ],
+    "leaderboardSource": "score.txt"
+  },
+  {
     "name": "Freemode 17/7",
     "displayName": "Freemode 17/7",
     "slug": "freemode-17-7",
@@ -25,6 +97,11 @@
     "hasLeaderboard": true,
     "skippedFiles": [],
     "skippedLobbyFiles": [],
+    "excludedPlayers": [],
+    "excludedPlayerRunCount": 0,
+    "excludedPlayerFiles": [],
+    "playerAliasCount": 0,
+    "playerAliases": [],
     "leaderboardSource": "scoreboard.txt"
   },
   {
@@ -53,6 +130,11 @@
     "hasLeaderboard": true,
     "skippedFiles": [],
     "skippedLobbyFiles": [],
+    "excludedPlayers": [],
+    "excludedPlayerRunCount": 0,
+    "excludedPlayerFiles": [],
+    "playerAliasCount": 0,
+    "playerAliases": [],
     "leaderboardSource": "1. girlkitten 3c 251 points.txt"
   },
   {
@@ -93,6 +175,11 @@
       "lobby_бабачай_49.24.demo",
       "lobby_•Deni•_110.66.demo"
     ],
+    "excludedPlayers": [],
+    "excludedPlayerRunCount": 0,
+    "excludedPlayerFiles": [],
+    "playerAliasCount": 0,
+    "playerAliases": [],
     "leaderboardSource": "scoreboard.txt"
   },
   {
@@ -121,6 +208,11 @@
     "hasLeaderboard": true,
     "skippedFiles": [],
     "skippedLobbyFiles": [],
+    "excludedPlayers": [],
+    "excludedPlayerRunCount": 0,
+    "excludedPlayerFiles": [],
+    "playerAliasCount": 0,
+    "playerAliases": [],
     "leaderboardSource": "tunezone part 2.txt"
   },
   {
@@ -149,6 +241,11 @@
     "hasLeaderboard": true,
     "skippedFiles": [],
     "skippedLobbyFiles": [],
+    "excludedPlayers": [],
+    "excludedPlayerRunCount": 0,
+    "excludedPlayerFiles": [],
+    "playerAliasCount": 0,
+    "playerAliases": [],
     "leaderboardSource": "tunezone part 1.txt"
   }
 ]

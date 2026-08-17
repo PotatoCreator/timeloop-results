@@ -36,5 +36,10 @@
     "lobby_бабачай_49.24.demo",
     "lobby_•Deni•_110.66.demo"
   ],
+  "excludedPlayers": [],
+  "excludedPlayerRunCount": 0,
+  "excludedPlayerFiles": [],
+  "playerAliasCount": 0,
+  "playerAliases": [],
   "leaderboardSource": "scoreboard.txt"
 }

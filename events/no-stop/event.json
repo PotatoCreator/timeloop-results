@@ -24,5 +24,10 @@
   "hasLeaderboard": true,
   "skippedFiles": [],
   "skippedLobbyFiles": [],
+  "excludedPlayers": [],
+  "excludedPlayerRunCount": 0,
+  "excludedPlayerFiles": [],
+  "playerAliasCount": 0,
+  "playerAliases": [],
   "leaderboardSource": "1. girlkitten 3c 251 points.txt"
 }
