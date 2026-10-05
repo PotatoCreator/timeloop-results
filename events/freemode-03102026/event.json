@@ -1,12 +1,12 @@
 {
-  "name": "Freemode 17/7",
-  "displayName": "Freemode 2",
-  "slug": "freemode-17-7",
-  "source": "freemode-17-7",
+  "name": "Freemode 03102026",
+  "displayName": "Freemode 3",
+  "slug": "freemode-03102026",
+  "source": "Freemode 03102026",
   "status": "ready",
   "statusLabel": "Ready to publish",
   "publishIssues": [],
-  "runCount": 892,
+  "runCount": 749,
   "mapCount": 10,
   "mapFileCount": 10,
   "fullMapCount": 10,
@@ -19,7 +19,7 @@
     "missing": 0,
     "status": "full"
   },
-  "bestRunCount": 11,
+  "bestRunCount": 10,
   "missingVideoCount": 0,
   "hasLeaderboard": true,
   "skippedFiles": [],
@@ -29,5 +29,5 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "scoreboard.txt"
+  "leaderboardSource": "Score.txt"
 }

@@ -1,5 +1,38 @@
 [
   {
+    "name": "Freemode 03102026",
+    "displayName": "Freemode 3",
+    "slug": "freemode-03102026",
+    "source": "Freemode 03102026",
+    "status": "ready",
+    "statusLabel": "Ready to publish",
+    "publishIssues": [],
+    "runCount": 749,
+    "mapCount": 10,
+    "mapFileCount": 10,
+    "fullMapCount": 10,
+    "fallbackMapCount": 0,
+    "missingMapCount": 0,
+    "mapSourceStatus": "full",
+    "mapSourceCounts": {
+      "full": 10,
+      "embeddedFallback": 0,
+      "missing": 0,
+      "status": "full"
+    },
+    "bestRunCount": 10,
+    "missingVideoCount": 0,
+    "hasLeaderboard": true,
+    "skippedFiles": [],
+    "skippedLobbyFiles": [],
+    "excludedPlayers": [],
+    "excludedPlayerRunCount": 0,
+    "excludedPlayerFiles": [],
+    "playerAliasCount": 0,
+    "playerAliases": [],
+    "leaderboardSource": "Score.txt"
+  },
+  {
     "name": "2 Weapon Mix",
     "displayName": "2 Weapon Mix",
     "slug": "2-weapon-mix",
@@ -73,7 +106,7 @@
   },
   {
     "name": "Freemode 17/7",
-    "displayName": "Freemode 17/7",
+    "displayName": "Freemode 2",
     "slug": "freemode-17-7",
     "source": "freemode-17-7",
     "status": "ready",
@@ -139,7 +172,7 @@
   },
   {
     "name": "Freemode",
-    "displayName": "Freemode",
+    "displayName": "Freemode 1",
     "slug": "freemode",
     "source": "freemode",
     "status": "ready",
