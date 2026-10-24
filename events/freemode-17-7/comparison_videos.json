@@ -1,0 +1,148 @@
+[
+  {
+    "mapId": "JetPuck_by_texnonik",
+    "name": "JetPuck",
+    "author": "texnonik",
+    "playerCount": 27,
+    "mapSource": "full",
+    "file": "JetPuck_by_texnonik.comparison.mp4",
+    "video": "comparison-videos/JetPuck_by_texnonik.comparison.mp4",
+    "players": [
+      {
+        "player": "bearr",
+        "time": "10.46",
+        "demo": "JetPuck_by_texnonik_bearr_10.46.demo"
+      },
+      {
+        "player": "Hoco4ek",
+        "time": "10.46",
+        "demo": "JetPuck_by_texnonik_Hoco4ek_10.46.demo"
+      },
+      {
+        "player": "Awas",
+        "time": "10.66",
+        "demo": "JetPuck_by_texnonik_Awas_10.66.demo"
+      },
+      {
+        "player": "girlkitten _3c",
+        "time": "10.86",
+        "demo": "JetPuck_by_texnonik_girlkitten _3c_10.86.demo"
+      },
+      {
+        "player": "mate108",
+        "time": "10.98",
+        "demo": "JetPuck_by_texnonik_mate108_10.98.demo"
+      },
+      {
+        "player": "Vappy",
+        "time": "11.06",
+        "demo": "JetPuck_by_texnonik_Vappy_11.06.demo"
+      },
+      {
+        "player": "Infern@L",
+        "time": "11.20",
+        "demo": "JetPuck_by_texnonik_Infern@L_11.20.demo"
+      },
+      {
+        "player": "Stepfunn",
+        "time": "11.24",
+        "demo": "JetPuck_by_texnonik_Stepfunn_11.24.demo"
+      },
+      {
+        "player": "DoubleDipp",
+        "time": "11.56",
+        "demo": "JetPuck_by_texnonik_DoubleDipp_11.56.demo"
+      },
+      {
+        "player": "Enbou",
+        "time": "11.76",
+        "demo": "JetPuck_by_texnonik_Enbou_11.76.demo"
+      },
+      {
+        "player": "дискодс",
+        "time": "11.86",
+        "demo": "JetPuck_by_texnonik_дискодс_11.86.demo"
+      },
+      {
+        "player": "paproninja",
+        "time": "12.18",
+        "demo": "JetPuck_by_texnonik_paproninja_12.18.demo"
+      },
+      {
+        "player": "cache",
+        "time": "12.76",
+        "demo": "JetPuck_by_texnonik_cache_12.76.demo"
+      },
+      {
+        "player": "AoAoAoBKa",
+        "time": "12.86",
+        "demo": "JetPuck_by_texnonik_AoAoAoBKa_12.86.demo"
+      },
+      {
+        "player": "•Deni•",
+        "time": "13.10",
+        "demo": "JetPuck_by_texnonik_•Deni•_13.10.demo"
+      },
+      {
+        "player": "flopo4ka",
+        "time": "14.00",
+        "demo": "JetPuck_by_texnonik_flopo4ka_14.00.demo"
+      },
+      {
+        "player": "n0Ez",
+        "time": "14.58",
+        "demo": "JetPuck_by_texnonik_n0Ez_14.58.demo"
+      },
+      {
+        "player": "Andrej(RUS)",
+        "time": "14.90",
+        "demo": "JetPuck_by_texnonik_Andrej(RUS)_14.90.demo"
+      },
+      {
+        "player": "Rom4ik228Epta",
+        "time": "14.94",
+        "demo": "JetPuck_by_texnonik_Rom4ik228Epta_14.94.demo"
+      },
+      {
+        "player": "Kaiden_slab_",
+        "time": "14.98",
+        "demo": "JetPuck_by_texnonik_Kaiden_slab__14.98.demo"
+      },
+      {
+        "player": "Badise",
+        "time": "16.26",
+        "demo": "JetPuck_by_texnonik_Badise_16.26.demo"
+      },
+      {
+        "player": "Vika2088",
+        "time": "17.64",
+        "demo": "JetPuck_by_texnonik_Vika2088_17.64.demo"
+      },
+      {
+        "player": "foxyrttet1",
+        "time": "18.14",
+        "demo": "JetPuck_by_texnonik_foxyrttet1_18.14.demo"
+      },
+      {
+        "player": "Carrey",
+        "time": "18.68",
+        "demo": "JetPuck_by_texnonik_Carrey_18.68.demo"
+      },
+      {
+        "player": "战士-воин",
+        "time": "19.00",
+        "demo": "JetPuck_by_texnonik_战士-воин_19.00.demo"
+      },
+      {
+        "player": "qiush",
+        "time": "22.10",
+        "demo": "JetPuck_by_texnonik_qiush_22.10.demo"
+      },
+      {
+        "player": "max13",
+        "time": "24.12",
+        "demo": "JetPuck_by_texnonik_max13_24.12.demo"
+      }
+    ]
+  }
+]
