@@ -29,5 +29,38 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "tunezone part 2.txt"
+  "leaderboardSource": "tunezone part 2.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "Hoco4ek",
+      "points": 271,
+      "skin": "1000-7",
+      "useCustomColor": true,
+      "colorBody": 9226528,
+      "colorFeet": 13813790,
+      "skinUrl": "https://ddnet.org/skins/skin/community/1000-7.png"
+    },
+    {
+      "rank": 2,
+      "player": "KOT1K",
+      "points": 249,
+      "skin": "Sticker_Nanami",
+      "useCustomColor": true,
+      "colorBody": 15509403,
+      "colorFeet": 11832831,
+      "skinUrl": "https://ddnet.org/skins/skin/community/Sticker_Nanami.png"
+    },
+    {
+      "rank": 3,
+      "player": "altf4",
+      "points": 249,
+      "skin": "awesomeit",
+      "useCustomColor": false,
+      "colorBody": 1900496,
+      "colorFeet": 11468799,
+      "skinUrl": "https://ddnet.org/skins/skin/community/default.png"
+    }
+  ],
+  "searchText": "timeloop tune zone part 2 30x30 amhin damkimamki dipite elastic explosion granadetune gravity reversed67 speedy strongloop tekcor tune_grenade_tex_1 tune_grenade_tex_3 psj_3 wee psj_3 psj_3 wee psj_3 carrey ƥøţāť0co wee wee wee wee texnonik texnonik hoco4ek kot1k altf4 flaundie wee nctos ƥøţāť0co bearr pro_gaming1921 byfox aoaoaobka puchok pretoni ty4. еблан sow vebrantium texnonik moluc quomy ♂s1mple♂ yana carrey i am stupid autistic tee me3rch markus777777 kto-to takoi... timopro zabor h20 derz flopo4ka"
 }

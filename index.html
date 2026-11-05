@@ -4,14 +4,67 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TimeLoop Results</title>
+  <meta property="og:site_name" content="TimeLoop Results">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="TimeLoop Results">
+  <meta property="og:description" content="Results, fastest runs, demos and maps from 8 TimeLoop community events.">
+  <meta property="og:url" content="https://potatocreator.github.io/timeloop-results/">
+  <meta name="description" content="Results, fastest runs, demos and maps from 8 TimeLoop community events.">
+  <meta name="theme-color" content="#7ee36f">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="https://potatocreator.github.io/timeloop-results/events/momentum/preview-Blackout_by_%C6%A4%C3%98%C5%A2%C4%80%C5%A40Co_Mizkibo_09.jpg">
+  <link rel="stylesheet" href="https://unpkg.com/tee-skin-renderer@0.3.2/dist/tee-skin-renderer.css">
   <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/tee-skin-renderer@0.3.2/dist/tee-skin-renderer.umd.js" defer></script>
 </head>
 <body>
+  <header class="site-nav">
+    <div class="site-nav-inner">
+      <a class="nav-brand" href="./">TimeLoop</a>
+      <a class="nav-link" href="./" aria-current="page">Events</a>
+      <a class="nav-link" href="mappers/">Mappers</a>
+      <nav class="social-links" aria-label="Community">
+      <a class="button social-link discord" href="https://discord.gg/tqbkMc7bt4" target="_blank" rel="noopener" aria-label="Discord"><svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg></a>
+      <a class="button social-link tiktok" href="https://www.tiktok.com/@timelooptw" target="_blank" rel="noopener" aria-label="TikTok"><svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg></a>
+    </nav>
+    </div>
+  </header>
   <main class="shell">
-    <section class="hero">
-      <p class="eyebrow">TimeLoop</p>
-      <h1>Event results</h1>
-      <p class="summary">Event records and scoreboards. Map downloads appear when full external .map files are available.</p>
+
+    <section class="arcade-hero" style="--hero-image: url('events/momentum/preview-Blackout_by_%C6%A4%C3%98%C5%A2%C4%80%C5%A40Co_Mizkibo_09.jpg')" aria-label="Latest event">
+      <div class="arcade-hero-body">
+        <p class="eyebrow">TimeLoop · Latest event</p>
+        <h1>Momentum</h1>
+        <div class="event-card-meta"><span class="event-chip">606 finishes</span><span class="event-chip">10 best runs</span></div>
+        <div class="hero-actions">
+          <a class="button" href="events/momentum/">View results</a>
+          <nav class="social-links" aria-label="Community">
+      <a class="button social-link discord" href="https://discord.gg/tqbkMc7bt4" target="_blank" rel="noopener"><svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg><span>Discord</span></a>
+      <a class="button social-link tiktok" href="https://www.tiktok.com/@timelooptw" target="_blank" rel="noopener"><svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg><span>TikTok</span></a>
+    </nav>
+        </div>
+      </div>
+      
+      <div class="podium" aria-label="Top 3 players">
+        <div class="podium-place place-2">
+          <span class="tee-slot tee-2" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/default.png" data-use-custom-color="true" data-color-body="1441691" data-color-feet="65535" data-follow-mouse="true"></div></span>
+          <span class="podium-player">Mizkibo</span>
+          <span class="podium-points">119 pts</span>
+          <div class="podium-step">2</div>
+        </div>
+        <div class="podium-place place-1">
+          <span class="tee-slot tee-1" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/default.png" data-use-custom-color="true" data-color-body="10136157" data-color-feet="14276095" data-follow-mouse="true"></div></span>
+          <span class="podium-player">Namzar</span>
+          <span class="podium-points">120 pts</span>
+          <div class="podium-step">1</div>
+        </div>
+        <div class="podium-place place-3">
+          <span class="tee-slot tee-3" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/Graph.png" data-use-custom-color="true" data-color-body="0" data-color-feet="50" data-follow-mouse="true"></div></span>
+          <span class="podium-player">mate108</span>
+          <span class="podium-points">109 pts</span>
+          <div class="podium-step">3</div>
+        </div>
+      </div>
     </section>
 
     <section class="stats-grid" aria-label="Site stats">
@@ -28,35 +81,34 @@
         <strong class="stat-value">5256</strong>
       </article>
     </section>
+    <section class="section-heading index-heading">
+      <h2>All events</h2>
+      <span id="event-count">8 total</span>
+    </section>
 
-    <section class="featured-section" aria-label="Latest event">
-      <a class="featured-card" href="events/momentum/">
+    <section class="event-filters" aria-label="Filter events">
+      <input type="search" id="event-search" placeholder="Search event, map, mapper or player" aria-label="Search events">
+      <div class="filter-chips"><button type="button" class="filter-chip active" data-filter="all">All</button><button type="button" class="filter-chip" data-filter="freemode">Freemode</button><button type="button" class="filter-chip" data-filter="tune">Tune zone</button><button type="button" class="filter-chip" data-filter="themed">Themed</button></div>
+    </section>
+    <section class="event-grid" aria-label="Events">
+
+      <a class="event-card" href="events/momentum/" data-category="themed" data-search="momentum a way ao6 blackout cranberry juice flygel hookindeed livefreeze_1 livefreeze_2 speedindeed texshot ƥøţāť0co mate108 ƥøţāť0co ƥøţāť0co ƥøţāť0co naotee texnonik texnonik naotee texnonik namzar mizkibo mate108 why?! hoco4ek1 vebrantium vappy kot1k kagelio adham vavan4ik000 manikoo ᴍɪᴋɪ leyzich keelo nctos texnonik badise hydra cheto zone •deni• us naotee">
         
-        <div class="event-card-media featured-card-media" data-preview-card>
+        <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/momentum/preview-Blackout_by_%C6%A4%C3%98%C5%A2%C4%80%C5%A40Co_Mizkibo_09.jpg" alt="">
           <video class="event-preview-video preview-hover-video" muted playsinline preload="metadata" data-preview-seed="882" src="events/momentum/videos/Blackout_by_%C6%A4%C3%98%C5%A2%C4%80%C5%A40Co_Mizkibo_09.38.mp4"></video>
           <span class="event-kicker complete">All files</span>
         </div>
-        <div class="featured-card-body">
-          <span class="featured-label">Latest event</span>
-          <div class="featured-card-top">
-            <div>
-              <h2>Momentum</h2>
-              <p class="featured-summary">Fastest runs, official scoreboard, and current file status.</p>
-            </div>
+        <div class="event-card-body">
+          <div class="event-card-top">
+            <strong>Momentum</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">606 finishes</span><span class="event-chip">10 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">606 finishes</span><span class="event-chip">10 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/default.png" data-use-custom-color="true" data-color-body="10136157" data-color-feet="14276095" data-follow-mouse="true"></div></span> Namzar</span></div>
         </div>
       </a>
-    </section>
-    <section class="section-heading index-heading">
-      <h2>All events</h2>
-      <span>8 total</span>
-    </section>
-    <section class="event-grid" aria-label="Events">
 
-      <a class="event-card" href="events/freemode-03102026/">
+      <a class="event-card" href="events/freemode-03102026/" data-category="freemode" data-search="freemode 03102026 handicapped iceskating hope mentmove open path shotgunrush_1 spiral swingin swingout wallpuck 1 weaponrush ƥøţāť0co ƥøţāť0co naotee ƥøţāť0co texnonik ƥøţāť0co ƥøţāť0co ƥøţāť0co texnonik carrey жeлудь ✪ namzar if i had a gun mizkibo mate108 markus777777 глuhomec wee джин 67 вуууууу ⌨ lander theaccurok poiklas11 огрызок zms ivanking000 resak djo байде carrey me3rch awized krea 1337mlgplayer hookiez naotee">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/freemode-03102026/preview-mentmove_by_NaoTee_if%20i%20had%20a%20gun_12.jpg" alt="">
@@ -68,11 +120,11 @@
             <strong>Freemode 3</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">749 finishes</span><span class="event-chip">10 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">749 finishes</span><span class="event-chip">10 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/default.png" data-follow-mouse="true"></div></span> Жeлудь ✪</span></div>
         </div>
       </a>
 
-      <a class="event-card" href="events/2-weapon-mix/">
+      <a class="event-card" href="events/2-weapon-mix/" data-category="themed" data-search="2 weapon mix aimninja autoweapon jetpuck 2 jetpuckz jetpuckz2 lasertrigger loopypoopy shroket_1 shroket_2 ƥøţāť0co ƥøţāť0co texnonik texnonik texnonik ƥøţāť0co doubledipp texnonik texnonik generale43 markus777777 flaundie камушек hoco4ek tw1zenn cheto kot1k bearr rtweeeq doubledipp 那froxy愛 z1rx pahdera ciclop n0ez bladeefan ṝắḿ carrey shidzen me3rch (...) kosh&#x27;ka wee soplezuyka (1)altf4 altf4 ƥøţāť0co qwikly naotee waterfall">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/2-weapon-mix/preview-Shroket_2_by_texnonik_Hoco4ek_09.jpg" alt="">
@@ -84,11 +136,11 @@
             <strong>2 Weapon Mix</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">555 finishes</span><span class="event-chip">9 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">555 finishes</span><span class="event-chip">9 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/greyfox.png" data-use-custom-color="true" data-color-body="1179485" data-color-feet="16747520" data-follow-mouse="true"></div></span> Generale43</span></div>
         </div>
       </a>
 
-      <a class="event-card" href="events/freemode-17-7/">
+      <a class="event-card" href="events/freemode-17-7/" data-category="freemode" data-search="freemode 17/7 deni 1 jetpuck jёtix ninjacat ninjapuck 1 ninjägö percent3 rocketpuck rocketpuck_lp tele3 •deni• texnonik ƥøţāť0co carrey texnonik ƥøţāť0co texnonik texnonik texnonik texnonik girlkitten :3c awas infern@l stepfunn mate108 hoco4ek vappy doubledipp дискодс bearr cache enbou камушек n0ez •deni• badise qiush rom4ik228epta cero дэлдэфoн foxyrttet1 43 vika2088 kaiden_slab? max13 flopo4ka paproninja aoaoaobka andrej(rus) carrey icetise flaundie s.papa [d] s.papa 战士-воин">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/freemode-17-7/preview-tele3%C2%A7texnonik%2C_Infern%40L_11.jpg" alt="">
@@ -100,11 +152,11 @@
             <strong>Freemode 2</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">892 finishes</span><span class="event-chip">11 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">892 finishes</span><span class="event-chip">11 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/Boykisser.png" data-use-custom-color="true" data-color-body="14942125" data-color-feet="255" data-follow-mouse="true"></div></span> girlkitten :3c</span></div>
         </div>
       </a>
 
-      <a class="event-card" href="events/no-stop/">
+      <a class="event-card" href="events/no-stop/" data-category="themed" data-search="no stop beryö cheesy dustfall_1111 föret heärl kurdebober per percent4 swёrv ёrity ƥøţāť0co doubledipp texnonik ƥøţāť0co ƥøţāť0co chougune texnonik texnonik ƥøţāť0co ƥøţāť0co girlkitten :3c namzar atsuko mate108 камушек markus777777 stepfunn hoco4ek chujozo100x bearr cheto hojphy vappy gwendal alwaуs pro_gaming1921 卄匀爪k囗ik hstlyx&lt;|&gt;:re?? doubledipp chougune adham 67 •deni• carrey derz boomsy why alive? kandiifloss агуш0 uuuhh me3rch paola qwinq kinel tim ⌨ soplezuyka">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/no-stop/preview-Bery%C3%B6%C2%A7%C6%A4%C3%98%C5%A2%C4%80%C5%A40Co%2C_mate108_10.jpg" alt="">
@@ -116,11 +168,11 @@
             <strong>No stop</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">944 finishes</span><span class="event-chip">10 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">944 finishes</span><span class="event-chip">10 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/Boykisser.png" data-use-custom-color="true" data-color-body="14942125" data-color-feet="255" data-follow-mouse="true"></div></span> girlkitten :3c</span></div>
         </div>
       </a>
 
-      <a class="event-card" href="events/freemode/">
+      <a class="event-card" href="events/freemode/" data-category="freemode" data-search="freemode 100 150 200 cut the time final i can&#x27;t play with both hands kandiifloss_i_want_you luminous muzzle noobfilter olen poletel priletel simplesnail simpleteleport slippery floor swingy uletel weenade zaletel wee wee wee mate108 psj_3 psj_3 psj_3 pro_gaming1921 psj_3 wee quomy quomy quomy ♂s1mple♂ ♂s1mple♂ ƥøţāť0co wee quomy wee quomy namzar stepfunn mizkibo gruffudd бабачай bearr kosh&#x27;ka pro_gaming1921 mate108 aoaoaobka chougune onigiri tw1zenn hstlyx&lt;|&gt;:re?? quon sow z1rx олегкоф byg gans carrey andrej(rus) ˢᵉᵡxy miø •deni• paproninja quomy doubledipp gomer280 koik m09l6d0ur13ii бiня 15 chydesni nameless tee decided world ♂s1mple♂ zms byfox peace duke matodor z">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/freemode/preview-zaletel%C2%A7quomy%3B_Gruffudd_05.jpg" alt="">
@@ -132,11 +184,11 @@
             <strong>Freemode 1</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">1483 finishes</span><span class="event-chip">21 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">1483 finishes</span><span class="event-chip">21 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/birdball.png" data-use-custom-color="true" data-color-body="10136157" data-color-feet="14276087" data-follow-mouse="true"></div></span> Namzar</span></div>
         </div>
       </a>
 
-      <a class="event-card" href="events/timeloop-tune-zone-part-2/">
+      <a class="event-card" href="events/timeloop-tune-zone-part-2/" data-category="tune" data-search="timeloop tune zone part 2 30x30 amhin damkimamki dipite elastic explosion granadetune gravity reversed67 speedy strongloop tekcor tune_grenade_tex_1 tune_grenade_tex_3 psj_3 wee psj_3 psj_3 wee psj_3 carrey ƥøţāť0co wee wee wee wee texnonik texnonik hoco4ek kot1k altf4 flaundie wee nctos ƥøţāť0co bearr pro_gaming1921 byfox aoaoaobka puchok pretoni ty4. еблан sow vebrantium texnonik moluc quomy ♂s1mple♂ yana carrey i am stupid autistic tee me3rch markus777777 kto-to takoi... timopro zabor h20 derz flopo4ka">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/timeloop-tune-zone-part-2/preview-reversed67_by_wee_bearr_22.jpg" alt="">
@@ -148,11 +200,11 @@
             <strong>Tune Zone Part 2</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">14 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">14 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/1000-7.png" data-use-custom-color="true" data-color-body="9226528" data-color-feet="13813790" data-follow-mouse="true"></div></span> Hoco4ek</span></div>
         </div>
       </a>
 
-      <a class="event-card" href="events/timeloop-tune-zone-part-1/">
+      <a class="event-card" href="events/timeloop-tune-zone-part-1/" data-category="tune" data-search="timeloop tune zone part 1 flaurium ilovekandiifloss kubikubi nugtohs penalty perkaset shotgunetune shotit shotune sosihuy tune_grenade_tex_2 tune_grenade_tex_4 flaundie psj_3 psj_3 wee wee psj_3 carrey wee chougune bender texnonik texnonik namzar ∜gŏłďēn flaundie psj_3 hoco4ek why?! bearr chougune pro_gaming1921 byfox puchok pretoni wood &quot;run&quot; shenfrush сосопен vavan4ik000 âƀoƀǜs bladeefan камушек carrey qwinq poip flopo4ka texnonik ƥøţāť0co">
         
         <div class="event-card-media" data-preview-card>
           <img class="event-preview-image" loading="lazy" src="events/timeloop-tune-zone-part-1/preview-tune_grenade_tex_2_by_texnonik_why_%21_10.jpg" alt="">
@@ -164,12 +216,43 @@
             <strong>Tune Zone Part 1</strong>
             <span class="status-icon ready" aria-label="Ready to publish" title="Ready to publish"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg></span>
           </div>
-          <div class="event-card-meta"><span class="event-chip">13 best runs</span></div>
+          <div class="event-card-meta"><span class="event-chip">13 best runs</span><span class="event-winner"><span class="tee-slot tee-small" aria-hidden="true"><div class="tee" data-skin="https://ddnet.org/skins/skin/community/birdball.png" data-use-custom-color="true" data-color-body="10136157" data-color-feet="14276087" data-follow-mouse="true"></div></span> Namzar</span></div>
         </div>
       </a>
     </section>
   </main>
+  <footer class="site-footer shell">
+    <span>TimeLoop community · <a href="mappers/">Mappers</a></span>
+    <nav class="social-links" aria-label="Community">
+      <a class="button social-link discord" href="https://discord.gg/tqbkMc7bt4" target="_blank" rel="noopener"><svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg><span>Discord</span></a>
+      <a class="button social-link tiktok" href="https://www.tiktok.com/@timelooptw" target="_blank" rel="noopener"><svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg><span>TikTok</span></a>
+    </nav>
+  </footer>
   <script>
+    const searchInput = document.getElementById('event-search');
+    const filterChips = document.querySelectorAll('.filter-chip');
+    const eventCount = document.getElementById('event-count');
+    let activeFilter = 'all';
+    const applyFilters = () => {
+      const query = (searchInput ? searchInput.value : '').trim().toLowerCase();
+      let shown = 0;
+      for (const card of document.querySelectorAll('.event-grid .event-card')) {
+        const visible = (activeFilter === 'all' || card.dataset.category === activeFilter)
+          && (!query || (card.dataset.search || '').includes(query));
+        card.hidden = !visible;
+        if (visible) shown += 1;
+      }
+      if (eventCount) eventCount.textContent = `${shown} shown`;
+    };
+    if (searchInput) searchInput.addEventListener('input', applyFilters);
+    for (const chip of filterChips) {
+      chip.addEventListener('click', () => {
+        activeFilter = chip.dataset.filter;
+        for (const other of filterChips) other.classList.toggle('active', other === chip);
+        applyFilters();
+      });
+    }
+
     const hoverPreviewEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
     if (hoverPreviewEnabled) {
       for (const video of document.querySelectorAll('.preview-hover-video')) {

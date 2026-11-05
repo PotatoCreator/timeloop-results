@@ -29,5 +29,38 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "tunezone part 1.txt"
+  "leaderboardSource": "tunezone part 1.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "Namzar",
+      "points": 201,
+      "skin": "birdball",
+      "useCustomColor": true,
+      "colorBody": 10136157,
+      "colorFeet": 14276087,
+      "skinUrl": "https://ddnet.org/skins/skin/community/birdball.png"
+    },
+    {
+      "rank": 2,
+      "player": "∜GŏłĎĒn",
+      "points": 186,
+      "skin": "oldscool",
+      "useCustomColor": false,
+      "colorBody": 10616615,
+      "colorFeet": 10616831,
+      "skinUrl": "https://ddnet.org/skins/skin/community/oldscool.png"
+    },
+    {
+      "rank": 3,
+      "player": "Flaundie",
+      "points": 181,
+      "skin": "RareClanTee",
+      "useCustomColor": false,
+      "colorBody": 14698496,
+      "colorFeet": 3080119,
+      "skinUrl": "https://ddnet.org/skins/skin/community/RareClanTee.png"
+    }
+  ],
+  "searchText": "timeloop tune zone part 1 flaurium ilovekandiifloss kubikubi nugtohs penalty perkaset shotgunetune shotit shotune sosihuy tune_grenade_tex_2 tune_grenade_tex_4 flaundie psj_3 psj_3 wee wee psj_3 carrey wee chougune bender texnonik texnonik namzar ∜gŏłďēn flaundie psj_3 hoco4ek why?! bearr chougune pro_gaming1921 byfox puchok pretoni wood \"run\" shenfrush сосопен vavan4ik000 âƀoƀǜs bladeefan камушек carrey qwinq poip flopo4ka texnonik ƥøţāť0co"
 }

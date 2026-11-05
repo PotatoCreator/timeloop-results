@@ -29,5 +29,38 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "score.txt"
+  "leaderboardSource": "score.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "Namzar",
+      "points": 120,
+      "skin": "00whis",
+      "useCustomColor": true,
+      "colorBody": 10136157,
+      "colorFeet": 14276095,
+      "skinUrl": "https://ddnet.org/skins/skin/community/default.png"
+    },
+    {
+      "rank": 2,
+      "player": "Mizkibo",
+      "points": 119,
+      "skin": "bluenanami",
+      "useCustomColor": true,
+      "colorBody": 1441691,
+      "colorFeet": 65535,
+      "skinUrl": "https://ddnet.org/skins/skin/community/default.png"
+    },
+    {
+      "rank": 3,
+      "player": "mate108",
+      "points": 109,
+      "skin": "Graph",
+      "useCustomColor": true,
+      "colorBody": 0,
+      "colorFeet": 50,
+      "skinUrl": "https://ddnet.org/skins/skin/community/Graph.png"
+    }
+  ],
+  "searchText": "momentum a way ao6 blackout cranberry juice flygel hookindeed livefreeze_1 livefreeze_2 speedindeed texshot ƥøţāť0co mate108 ƥøţāť0co ƥøţāť0co ƥøţāť0co naotee texnonik texnonik naotee texnonik namzar mizkibo mate108 why?! hoco4ek1 vebrantium vappy kot1k kagelio adham vavan4ik000 manikoo ᴍɪᴋɪ leyzich keelo nctos texnonik badise hydra cheto zone •deni• us naotee"
 }

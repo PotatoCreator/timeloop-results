@@ -29,5 +29,38 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "scoreboard.txt"
+  "leaderboardSource": "scoreboard.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "girlkitten :3c",
+      "points": 263,
+      "skin": "Boykisser",
+      "useCustomColor": true,
+      "colorBody": 14942125,
+      "colorFeet": 255,
+      "skinUrl": "https://ddnet.org/skins/skin/community/Boykisser.png"
+    },
+    {
+      "rank": 2,
+      "player": "Awas",
+      "points": 256,
+      "skin": "nanami_glow",
+      "useCustomColor": true,
+      "colorBody": 6147988,
+      "colorFeet": 3522706,
+      "skinUrl": "https://ddnet.org/skins/skin/community/nanami_glow.png"
+    },
+    {
+      "rank": 3,
+      "player": "Infern@L",
+      "points": 243,
+      "skin": "whis",
+      "useCustomColor": true,
+      "colorBody": 12844800,
+      "colorFeet": 5570559,
+      "skinUrl": "https://ddnet.org/skins/skin/community/whis.png"
+    }
+  ],
+  "searchText": "freemode 17/7 deni 1 jetpuck jёtix ninjacat ninjapuck 1 ninjägö percent3 rocketpuck rocketpuck_lp tele3 •deni• texnonik ƥøţāť0co carrey texnonik ƥøţāť0co texnonik texnonik texnonik texnonik girlkitten :3c awas infern@l stepfunn mate108 hoco4ek vappy doubledipp дискодс bearr cache enbou камушек n0ez •deni• badise qiush rom4ik228epta cero дэлдэфoн foxyrttet1 43 vika2088 kaiden_slab? max13 flopo4ka paproninja aoaoaobka andrej(rus) carrey icetise flaundie s.papa [d] s.papa 战士-воин"
 }

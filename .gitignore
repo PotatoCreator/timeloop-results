@@ -23,3 +23,5 @@ local_tools/timeloop_studio.json
 local_tools/timeloop_studio.crash.txt
 control_panel.defaults.json
 timeloop_studio*
+local_tools/.tiktok_work/
+local_tools/.tiktok/

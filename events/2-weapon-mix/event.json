@@ -68,5 +68,38 @@
       "display": "Generale43"
     }
   ],
-  "leaderboardSource": "score.txt"
+  "leaderboardSource": "score.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "Generale43",
+      "points": 159,
+      "skin": "greyfox",
+      "useCustomColor": true,
+      "colorBody": 1179485,
+      "colorFeet": 16747520,
+      "skinUrl": "https://ddnet.org/skins/skin/community/greyfox.png"
+    },
+    {
+      "rank": 2,
+      "player": "Markus777777",
+      "points": 152,
+      "skin": "kani",
+      "useCustomColor": true,
+      "colorBody": 10616615,
+      "colorFeet": 10616831,
+      "skinUrl": "https://ddnet.org/skins/skin/community/kani.png"
+    },
+    {
+      "rank": 3,
+      "player": "Flaundie",
+      "points": 148,
+      "skin": "glow_contrastfox",
+      "useCustomColor": true,
+      "colorBody": 1627003,
+      "colorFeet": 9355775,
+      "skinUrl": "https://ddnet.org/skins/skin/community/glow_contrastfox.png"
+    }
+  ],
+  "searchText": "2 weapon mix aimninja autoweapon jetpuck 2 jetpuckz jetpuckz2 lasertrigger loopypoopy shroket_1 shroket_2 ƥøţāť0co ƥøţāť0co texnonik texnonik texnonik ƥøţāť0co doubledipp texnonik texnonik generale43 markus777777 flaundie камушек hoco4ek tw1zenn cheto kot1k bearr rtweeeq doubledipp 那froxy愛 z1rx pahdera ciclop n0ez bladeefan ṝắḿ carrey shidzen me3rch (...) kosh'ka wee soplezuyka (1)altf4 altf4 ƥøţāť0co qwikly naotee waterfall"
 }

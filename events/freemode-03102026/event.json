@@ -29,5 +29,38 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "Score.txt"
+  "leaderboardSource": "Score.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "Жeлудь ✪",
+      "points": 173,
+      "skin": "cool_acorn",
+      "useCustomColor": false,
+      "colorBody": 65280,
+      "colorFeet": 16776960,
+      "skinUrl": "https://ddnet.org/skins/skin/community/default.png"
+    },
+    {
+      "rank": 2,
+      "player": "Namzar",
+      "points": 171,
+      "skin": "00whis",
+      "useCustomColor": true,
+      "colorBody": 10136157,
+      "colorFeet": 14276095,
+      "skinUrl": "https://ddnet.org/skins/skin/community/default.png"
+    },
+    {
+      "rank": 3,
+      "player": "if i had a gun",
+      "points": 163,
+      "skin": "glow_cammo",
+      "useCustomColor": true,
+      "colorBody": 2131596,
+      "colorFeet": 16074239,
+      "skinUrl": "https://ddnet.org/skins/skin/community/glow_cammo.png"
+    }
+  ],
+  "searchText": "freemode 03102026 handicapped iceskating hope mentmove open path shotgunrush_1 spiral swingin swingout wallpuck 1 weaponrush ƥøţāť0co ƥøţāť0co naotee ƥøţāť0co texnonik ƥøţāť0co ƥøţāť0co ƥøţāť0co texnonik carrey жeлудь ✪ namzar if i had a gun mizkibo mate108 markus777777 глuhomec wee джин 67 вуууууу ⌨ lander theaccurok poiklas11 огрызок zms ivanking000 resak djo байде carrey me3rch awized krea 1337mlgplayer hookiez naotee"
 }

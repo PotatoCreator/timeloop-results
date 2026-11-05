@@ -41,5 +41,38 @@
   "excludedPlayerFiles": [],
   "playerAliasCount": 0,
   "playerAliases": [],
-  "leaderboardSource": "scoreboard.txt"
+  "leaderboardSource": "scoreboard.txt",
+  "podium": [
+    {
+      "rank": 1,
+      "player": "Namzar",
+      "points": 398,
+      "skin": "birdball",
+      "useCustomColor": true,
+      "colorBody": 10136157,
+      "colorFeet": 14276087,
+      "skinUrl": "https://ddnet.org/skins/skin/community/birdball.png"
+    },
+    {
+      "rank": 2,
+      "player": "Stepfunn",
+      "points": 376,
+      "skin": "greyfox",
+      "useCustomColor": true,
+      "colorBody": 5177088,
+      "colorFeet": 5701376,
+      "skinUrl": "https://ddnet.org/skins/skin/community/greyfox.png"
+    },
+    {
+      "rank": 3,
+      "player": "Mizkibo",
+      "points": 374,
+      "skin": "default",
+      "useCustomColor": false,
+      "colorBody": 1507227,
+      "colorFeet": 65535,
+      "skinUrl": "https://ddnet.org/skins/skin/community/default.png"
+    }
+  ],
+  "searchText": "freemode 100 150 200 cut the time final i can't play with both hands kandiifloss_i_want_you luminous muzzle noobfilter olen poletel priletel simplesnail simpleteleport slippery floor swingy uletel weenade zaletel wee wee wee mate108 psj_3 psj_3 psj_3 pro_gaming1921 psj_3 wee quomy quomy quomy ♂s1mple♂ ♂s1mple♂ ƥøţāť0co wee quomy wee quomy namzar stepfunn mizkibo gruffudd бабачай bearr kosh'ka pro_gaming1921 mate108 aoaoaobka chougune onigiri tw1zenn hstlyx<|>:re?? quon sow z1rx олегкоф byg gans carrey andrej(rus) ˢᵉᵡxy miø •deni• paproninja quomy doubledipp gomer280 koik m09l6d0ur13ii бiня 15 chydesni nameless tee decided world ♂s1mple♂ zms byfox peace duke matodor z"
 }
